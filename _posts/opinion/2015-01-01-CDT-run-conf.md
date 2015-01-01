@@ -1,3 +1,8 @@
+---
+category: opinion
+title: Eclipse CDT run configure
+description: 
+---
 ## .so not found
 run configure->Environment->SELECT->LD_LIBRARY_PATH
 
