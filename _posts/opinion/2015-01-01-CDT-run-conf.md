@@ -2,6 +2,7 @@
 category: opinion
 title: Eclipse CDT run configure
 description: 
+layout: post
 ---
 ## .so not found
 run configure->Environment->SELECT->LD_LIBRARY_PATH
