@@ -116,6 +116,7 @@ footer.site-footer .wrap{
   padding-top: 22px;
   padding-bottom: 22px;
 }
+.visit-count{ font-variant-numeric: tabular-nums; }
 
 @media (max-width: 600px){
   nav.site-nav .wrap{
